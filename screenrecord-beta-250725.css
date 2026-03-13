@@ -1,0 +1,12 @@
+.video {
+    display: flex;
+    flex-direction: column;
+    width: 100%;  
+}
+    
+.video video {
+    width: 90%;
+    border: 1px solid #ccc;
+    aspect-ratio: 4/3;
+}
+    
